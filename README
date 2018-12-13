@@ -1,0 +1,6 @@
+This repository contains several merges from fixes I have found on the web
+
+1) it is based on the latest version from the community 3.6.2.4
+2) contains fixes for Drill spot
+3) contains profile for GRBL
+4) contains a change for creating the board based on the milling layer
